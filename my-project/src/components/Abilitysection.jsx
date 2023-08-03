@@ -5,7 +5,7 @@ import "../css/Abilitysection.css";
 
 function AbilitySection() {
   return (
-    <section className="w-[100vw] h-[80vh] bg-[#fafafa]">
+    <section className="w-[100vw] h-[70vh] bg-[#fafafa]">
       {/* <h1></h1> */}
       <h1 className="text-center text-[1.8rem] pt-[3rem] font-semibold text-slate-800">
         Why Hire Me 👨🏽‍💻
