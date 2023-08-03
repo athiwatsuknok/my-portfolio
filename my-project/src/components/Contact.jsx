@@ -11,22 +11,22 @@ function Contact() {
           Contact Me
         </h1>
         <ul className="flex justify-center mt-[3rem]">
-          <li className="place-content-center">
+          <li className="place-content-center hover:scale-110 hover:duration-300">
             <a href="#">
               <img className="w-[60px]" src={facebook} alt="" />
             </a>
           </li>
-          <li>
+          <li className="hover:scale-110 hover:duration-300">
             <a href="#">
               <img className="w-[60px] ml-[5rem]" src={instragram} alt="" />
             </a>
           </li>
-          <li>
+          <li className="hover:scale-110 hover:duration-300">
             <a href="#">
               <img className="w-[60px] ml-[5rem]" src={github} alt="" />
             </a>
           </li>
-          <li>
+          <li className="hover:scale-110 hover:duration-300">
             <a href="#">
               <img className="w-[60px] ml-[5rem]" src={gmail} alt="" />
             </a>
