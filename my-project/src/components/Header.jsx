@@ -26,7 +26,9 @@ function Header() {
     <header className="header w-[100vw] h-[100vh] bg-[#fafafa]">
       <div className="">
         <nav className="logo flex justify-between w-[80%] h-[80px] mx-auto  items-center ">
-          <h2 className="text-xl tracking-wide font-bold">PORTFOLIO</h2>
+          <a href="#" className="text-xl tracking-wide font-bold">
+            PORTFOLIO
+          </a>
           <button className="bg-[#ff5971] px-4 py-2 rounded-lg text-white">
             Contact
           </button>
